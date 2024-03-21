@@ -1,0 +1,60 @@
+.Footer__Wrapper{
+    width: inherit;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footer__Container{
+    width: 1500px;
+    height: 215px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Footer__UpperContent{
+    width: 260px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+}
+.Footer__UpperContent--text{
+    width: 260px;
+    height: 30px;
+}
+.Footer__UpperContent--icons{
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.UpperContent__icon{
+    width: 20px;
+    height: 20px;
+}
+.Footer__Border{
+    width: inherit;
+    height: 2px;
+    border: 1px solid black;
+}
+.Footer__BottomContent{
+    width: inherit;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.Footer__BottomContent--text{
+    width: 250px;
+    height: 40px;
+    
+}
+.BottomContent__text{
+    font-size: 14px;
+    text-wrap: wrap;
+}
+.Footer-BottomContent--icon{
+    width: 70px;
+    height: 40px;
+    display: flex;
+    align-items: end;
+}
