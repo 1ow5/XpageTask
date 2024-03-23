@@ -2,6 +2,7 @@ import "./MainPage.scss"
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import FrameOne from "../Frames/FrameOne/FrameOne";
+import FrameTwo from "../Frames/FrameTwo/FrameTwo"
 
 function MainPage(){
     return (
@@ -9,6 +10,7 @@ function MainPage(){
 				<div className='MainPage__Container'>
 					<Header />
 					<FrameOne />
+					<FrameTwo />
 					<Footer />
 				</div>
 			</div>

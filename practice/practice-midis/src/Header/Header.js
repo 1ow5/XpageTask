@@ -27,7 +27,7 @@ function Header(){
 				<div className='Header__LowerContent'>
 					<div className='LowerContent__Links'>
 						<li><a className='Links__News'>Новости</a></li>
-						<li><a className='Links__TVProjects'>Тлепроеткы</a></li>
+						<li><a className='Links__TVProjects'>Телепроеткы</a></li>
 						<li><a className='Links__Adds'>Реклама</a></li>
 						<li><a className='Links__Online'>Онлайн</a></li>
 						<li><a className='Links__Program'>Программа Передач</a></li>
